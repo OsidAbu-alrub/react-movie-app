@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/OsidAbu-alrub/react-movie-app/static/css/main.37774ea3.chunk.css",
+    "main.js": "/OsidAbu-alrub/react-movie-app/static/js/main.5c828de9.chunk.js",
+    "main.js.map": "/OsidAbu-alrub/react-movie-app/static/js/main.5c828de9.chunk.js.map",
+    "runtime-main.js": "/OsidAbu-alrub/react-movie-app/static/js/runtime-main.02ea54ef.js",
+    "runtime-main.js.map": "/OsidAbu-alrub/react-movie-app/static/js/runtime-main.02ea54ef.js.map",
+    "static/js/2.2c8dccc9.chunk.js": "/OsidAbu-alrub/react-movie-app/static/js/2.2c8dccc9.chunk.js",
+    "static/js/2.2c8dccc9.chunk.js.map": "/OsidAbu-alrub/react-movie-app/static/js/2.2c8dccc9.chunk.js.map",
+    "index.html": "/OsidAbu-alrub/react-movie-app/index.html",
+    "static/css/main.37774ea3.chunk.css.map": "/OsidAbu-alrub/react-movie-app/static/css/main.37774ea3.chunk.css.map",
+    "static/js/2.2c8dccc9.chunk.js.LICENSE.txt": "/OsidAbu-alrub/react-movie-app/static/js/2.2c8dccc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02ea54ef.js",
+    "static/js/2.2c8dccc9.chunk.js",
+    "static/css/main.37774ea3.chunk.css",
+    "static/js/main.5c828de9.chunk.js"
+  ]
+}
